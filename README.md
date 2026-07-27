@@ -1,4 +1,4 @@
-                                                    Weather App
+ Weather App
 
 A responsive Weather Web Application built using HTML, CSS, and JavaScript that provides real-time weather information for any city. The application fetches live weather data through API integration and presents it in a clean, intuitive interface, demonstrating asynchronous JavaScript and modern frontend development practices.
 
